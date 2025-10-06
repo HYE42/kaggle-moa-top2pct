@@ -1,4 +1,4 @@
-# kaggle-moa-top2pct
+# kaggle competition: Mechanisms of Action top 2% solution
 <img width="1296" height="297" alt="image" src="https://github.com/user-attachments/assets/0a1b11b6-f37f-40de-967d-2bf48cb419ce" />
 https://www.kaggle.com/competitions/lish-moa
 
